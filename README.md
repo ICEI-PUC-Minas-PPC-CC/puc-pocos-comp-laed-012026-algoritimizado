@@ -1,6 +1,4 @@
-# Sistema de Salvamento de Livros Virtual
-             S             L      V       - SLV
-
+# Sistema de Salvamento de Livros Virtual  - SLV
 aluno: Leandro Lemos Raia
 
 
