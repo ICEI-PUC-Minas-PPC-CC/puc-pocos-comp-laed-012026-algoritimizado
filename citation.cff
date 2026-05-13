@@ -1,0 +1,16 @@
+title:Sistema de Salvamento de Livros Virtuais - SLV
+authors: Leandro Lemos Raia
+  - family-names: Lemos Raia
+    given-names: Leandro
+    - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pontes
+    given-names: Diego
+keywords: 
+  - Biblioteca
+  - Livros
+  - SLV
+  - Virtual
+repository-code: https://github.com/ICEI-PUC-Minas-PPC-CC/puc-pocos-comp-laed-012026-algoritimizado
+version: 1.0.0
+date-released: 2026-12-05
